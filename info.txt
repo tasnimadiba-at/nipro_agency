@@ -1,0 +1,26 @@
+css
+html
+
+media quiry or braking point
+
+css use kore website sajano hoy
+kintu media quiry or breaking point diye device screen onupate content_gulaok sajano hoy
+
+
+col/extra small - 320 - 575
+samll           - 576 - 767
+md              - 768 - 991
+lg              - 992 - 1199
+xl              - 1200 - 1399
+xxl             - 1400 - 
+
+
+
+
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Lato', sans-serif;
+
+black #333333
+white #ffffff
+ash   #8e8e8e

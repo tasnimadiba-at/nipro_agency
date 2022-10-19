@@ -1,0 +1,580 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+/*header start*/
+  
+.menu ul li a{
+
+	padding: 10px 0 0 !important;
+	}
+
+.s_dm {
+    width: 280px;
+    
+	}
+.s_dm[data-bs-popper] {
+    padding: 10px 10px;
+    top: 50px;
+	    left: 5px;
+	}
+.s_input {
+    border: 0;
+    margin-left: -10px;
+    padding-bottom: 5px;
+   
+	}
+.s_submit {
+    padding: 5px 0px;
+    margin-left: -5px;
+    border: none;
+    background: transparent;
+	}	
+	/*banner*/
+.s_slider h2{
+	
+	font-size: 45px;
+	
+	}
+	/*feature*/
+	.c_h1 {
+    
+    font-size: 29px;
+    
+	}
+	.c_p {
+
+    margin-top: 30px;
+    line-height: 30px;
+    font-size: 15px;
+
+	}
+	.f_single {
+    margin-top: 65px;
+    font-size: 15px;
+
+	}
+
+	.f_hr {
+    margin: 15px 0;
+
+	}
+	.f_p {
+    padding-bottom: 15px;
+	}
+	/*about*/
+	.a_img {
+  	height: 250px;
+	}
+	.right h2 {
+    margin-top: 30px;
+	}
+	.right p {
+    padding: 10px 0 0px;
+    
+	}
+	
+	/*recent*/
+	.works {
+	margin-top: 80px;
+	}
+	.menu_tab {
+    margin: 50px 0 0;
+    margin-left: 5px;
+    padding: 0;
+	}
+
+	/*choose*/
+	.ours_content {
+    margin-top: -100px;
+	}
+
+	.our_i {
+    font-size: 60px;
+    margin-left: 13px;
+	}
+
+	.our_h2 h2 {
+    padding-top: 24px;
+    margin-top: 70px;
+    font-size: 18px;
+    text-align: center;
+	}
+
+	.our_p p {
+    margin: 45px -45px 45px 25px;
+    line-height: 27px;
+    color: #8e8e8e;
+	}
+
+	.our_hr {
+    margin: 0px 0 50px 10px;
+    width: 318px;
+	}
+
+	/*work us*/
+
+	.us {
+	  margin-top: 40px;
+	}
+	.us_content {
+  	margin-top: 80px;
+	}
+
+	.us_o2 h2 {
+	  padding: 14px 20px;
+	 height: 16%;
+	}
+	.us_o2 p{
+		top: 73%;
+    	left: 51%;
+	}
+
+	/*price*/
+	.p_single {
+    padding: 65px 58px 40px;
+	}
+	.btn_sign{
+		width: 170px;
+	}
+
+	/*template*/
+	.temp_h2 h2 {
+    font-size: 16px;
+	}
+	.temp_btn{
+	
+	margin-left: 50px;
+	}
+
+	/*intro*/
+
+	.intro_btn {
+    margin-top: 25px;
+	}
+
+	.int_btn{
+    writing-mode: lr;
+    height: 60px;
+    padding: 0 45px;
+	}
+
+	.int_btn_span {
+    padding: 0px 0px 0px 30px;
+	}
+
+	/*contact*/
+
+	.cont_title{
+		margin-left: 68px;
+	}
+
+	 .cont_form input{
+	 	margin-top: 20px;
+	 }
+
+	 .cont_n1{
+	 	width: 90%;
+    	padding: 30px 0 10px 20px;
+	 }
+	 .cont_n2{
+	 	width: 90%;
+    	padding: 10px 0 10px 10px;
+	 }
+	 .cont_em{
+	 	width: 92%;
+    	padding: 10px 0 10px 20px;
+
+	 }
+	 .cont_msg{
+	 	padding: 10px 0 20px 20px;
+
+	 }
+	.con_btn {
+	  
+	  margin: 20px 0;
+	}
+
+	.btn_common{
+		width: 160px;
+		height: 40px;
+	}
+
+
+
+	/*footer*/
+
+	.foot_text{
+		margin: 15px 0;
+	}
+	.foot_icon ul li{
+	margin-right: 5px !important;
+    width: 40px;
+    height: 40px;
+
+	}
+	.foot_icon ul li a i{
+		font-size: 20px;
+	}
+
+	.foot_left{
+	margin: 5px 0;
+    text-align: center;
+	}
+	.foot_right{
+	margin: 5px 0;
+    text-align: center;
+	}
+ 	
+ }
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/*header start*/
+  
+.menu ul li a{
+
+	padding: 10px 0 0 !important;
+	}
+.s_dm[data-bs-popper] {
+    padding: 10px 10px;
+    top: -5px;
+    left: 80px;
+	}
+	/*banner*/
+.s_slider h2{
+	
+	font-size: 50px;
+	
+	}
+	/*feature*/
+	.c_h1 {
+    
+    font-size: 29px;
+    
+	}
+	.c_p {
+
+    margin-top: 30px;
+    line-height: 30px;
+    font-size: 15px;
+
+	}
+	.f_single {
+    margin-top: 65px;
+    font-size: 15px;
+
+	}
+
+	.f_hr {
+    margin: 15px 0;
+
+	}
+	.f_p {
+    padding-bottom: 15px;
+	}
+	/*about*/
+	.right h2 {
+    margin-top: 30px;
+	}
+	.right p {
+    padding: 10px 0 0px;
+    
+	}
+	/*recent*/
+	.menu_tab {
+    margin: 50px 0 0;
+    margin-left: 5px;
+    padding: 0;
+	}
+
+	/*choose*/
+	.ours_content {
+    margin-left: 100px;
+    margin-top: -120px;
+
+	}
+	.our_i {
+    font-size: 65px;
+	}
+	.our_h2 h2 {
+    padding-top: 25px;
+    margin-top: 135px;
+    font-size: 24px;
+	}
+
+	/*work us*/
+	.us_content {
+    margin-top: 100px;
+	}
+
+	/*price*/
+	.p_single {
+    padding: 65px 33px 40px;
+	}
+	.btn_sign{
+		width: 165px;
+	}
+
+	/*template*/
+	.temp_h2 h2 {
+    font-size: 16px;
+	}
+	.temp_btn{
+	width: 160px;
+	margin-left: 0px;
+	}
+
+
+	/*intro*/
+
+	.intro_btn {
+    margin-top: 25px;
+	}
+
+	.int_btn{
+    writing-mode: lr;
+    height: 60px;
+    padding: 0 100px;
+	}
+
+	.int_btn_span {
+    padding: 0px 0px 0px 30px;
+	}
+
+
+	/*contact*/
+	
+	.cont_title{
+		margin-left: 170px;
+	}
+
+	.con_btn {
+	  
+	  margin-left: 0px;
+	}
+	
+	/*footer*/
+	.foot_right {
+    margin: 30px 74px;
+	}
+	.foot_left {
+    
+    margin-top: 30px;
+    margin-left: 75px;
+    margin-bottom: -10px;
+    
+	}
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*header start*/
+  
+.menu ul li a{
+
+	padding: 10px 0 0 !important;
+	}
+.s_dm[data-bs-popper] {
+    padding: 10px 10px;
+    top: -5px;
+    left: 80px;
+	}
+	/*banner*/
+.s_slider h2{
+	
+	font-size: 50px;
+	
+	}
+	/*about*/
+	.right h2 {
+    margin-top: 30px;
+	}
+	.right p {
+    padding: 10px 0 0px;
+    
+	}
+
+	/*recent*/
+	.menu_tab {
+    margin-left: 60px;
+	}
+
+	/*choose*/
+	.our_hr { 
+    width: 300px;
+	}
+	
+	/*work us*/
+	.us_o2 h2 {
+    padding: 16px 20px;
+    top: 70%;
+    height: 15%;
+	}
+
+	.us_o2 p {
+    margin: 2px;
+    top: 72%;
+    left: 51%;
+	}
+
+	.us_a i {
+    padding: 13px 4px;
+	}
+
+	/*price*/
+	.p_single {
+    padding: 65px 60px 40px;
+	}
+
+	/*template*/
+	.temp_h2 h2 {
+    font-size: 15px;
+	}
+
+	/*intro*/
+
+	.intro_btn {
+    margin-top: 25px;
+	}
+
+	.int_btn{
+	
+    writing-mode: lr;
+    height: 65px;
+    padding: 0 142px
+	}
+
+	.int_btn_span {
+    padding: 0px 0px 0px 30px;
+	}
+
+
+	/*contact*/
+	
+	.cont_title{
+		margin-left: 250px;
+	}
+
+	/*footer*/
+
+	.foot_right ul li a {
+    padding: 0 8px;
+	}
+
+ }
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*banner*/
+.s_slider h2{
+	
+	font-size: 50px;
+	
+	}
+	/*feature*/
+	.c_h1 {
+    
+    font-size: 28px;
+
+	}
+	/*about*/
+	.right p {
+    padding: 15px 0 0px;
+    line-height: 25px;
+	}
+	.btn_border {
+    margin-top: 10px;
+    
+	}
+
+	/*choose*/
+	.our_hr { 
+    width: 300px;
+	}
+	
+	/*work us*/
+
+	.us_o2 h2 {
+    padding: 9px 14px;
+    font-size: 15px;
+    top: 68%;
+	}
+
+	.us_o2 p {
+    top: 70%;
+    left: 50%;
+	}
+
+	.us_a i {
+    padding: 7px 3px;
+    font-size: 20px;
+	}
+
+	/*price*/
+	.price span {
+	  font-size: 35px;
+	}
+	.btn_sign{
+		width: 160px;
+	}
+
+	/*template*/
+	.temp_h2 h2 {
+    font-size: 16px;
+	}
+
+	.temp_btn {
+    margin-left: -60px;
+	}
+
+	/*intro*/
+	.int_btn {
+    width: 54px;
+    height: 166px;
+	}
+
+	.int_btn_span {
+    padding: 0px 0 0px 18px;
+	}
+
+	/*contact*/
+	
+	/*footer*/
+	.foot_text {
+ 		margin: 15px 75px;
+
+	}
+	.foot_right ul li a {
+    padding: 0 8px;
+	}
+
+ }
+
+/* Extra Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+
+	
+
+/* Extra Extra large devices (extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+/*banner*/
+.s_slider h2{
+	
+	font-size: 60px;
+	
+	}
+/*about*/
+
+/*.a_img {
+    height: auto !important;
+	}
+.right p {
+    padding: 25px 0 0px !important;
+
+	}*/
+.btn_border {
+    margin-top: 60px !important;
+    
+	}
+ }
